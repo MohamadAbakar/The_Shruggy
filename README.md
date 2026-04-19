@@ -49,11 +49,11 @@ The flex sensors read shoulder positioning, which the onboard microcontroller in
 
 ## Design Goals
 
-- ✅ No arm, hand, or finger movement required
-- ✅ Mouth and voice left free for communication
-- ✅ Comfortable for extended sessions
-- ✅ Low-cost and reproducible (~$31 in parts)
-- ✅ Compatible with mainstream console/computer input schemes
+- No arm, hand, or finger movement required
+- Mouth and voice left free for communication
+- Comfortable for extended sessions
+- Low-cost and reproducible (~$31 in parts)
+- Compatible with mainstream console/computer input schemes
 
 ---
 
